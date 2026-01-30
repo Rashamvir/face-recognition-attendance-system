@@ -1,8 +1,8 @@
 # 🕒 AI Face Attendance System
 
-A modern, web-based attendance tracking application using **Facial Recognition**. This system allows users to "Punch In" and "Punch Out" using their webcam, with all data logged into a downloadable CSV report.
-
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://face-recognition-attendance-system-git.streamlit.app/)
+
+A modern, web-based attendance tracking application using **Facial Recognition**. This system allows users to "Punch In" and "Punch Out" using their webcam, with all data logged into a downloadable CSV report.
 
 ## ✨ Features
 * **👤 User Registration:** Capture and save new faces to the database instantly.
@@ -53,15 +53,3 @@ python3 -m streamlit run app_streamlit.py
 4. Go to "View Logs" to see the history and download the Excel file.
 
 ## Built with ❤️ using Python and Streamlit.
-
----
-
-### How to add this in VS Code:
-1. Create a new file named `README.md`.
-2. Paste the code above into it.
-3. Save the file.
-4. Run these terminal commands to send it to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Add professional README"
-   git push origin main
