@@ -2,6 +2,8 @@
 
 A modern, web-based attendance tracking application using **Facial Recognition**. This system allows users to "Punch In" and "Punch Out" using their webcam, with all data logged into a downloadable CSV report.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://face-recognition-attendance-system-git.streamlit.app/)
+
 ## ✨ Features
 * **👤 User Registration:** Capture and save new faces to the database instantly.
 * **🕒 Punch In/Out:** Track arrival and departure with a simple toggle and scan.
