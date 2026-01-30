@@ -17,6 +17,15 @@ A modern, web-based attendance tracking application using **Facial Recognition**
 * **Image Processing:** OpenCV
 * **Data Management:** Pandas
 
+## 📝 Usage
+1. Open the app via the Streamlit link.
+
+2. Use "Register New User" to add your face to the system.
+
+3. Use "Log Attendance" to clock in or out.
+
+4. Go to "View Logs" to see the history and download the Excel file.
+
 ## 🚀 Local Setup
 
 If you want to run this project on your own machine:
@@ -31,25 +40,5 @@ pip install -r requirements.txt
 
 3. **Run the app:**
 python3 -m streamlit run app_streamlit.py
-
-## 📂 Project Structure
-* app_streamlit.py - The main application logic.
-
-* requirements.txt - List of Python libraries required.
-
-* dataset/ - Directory storing registered user face images.
-
-* attendance.csv - The local log file for attendance records.
-
-* .gitignore - Prevents junk files from being uploaded to GitHub.
-
-## 📝 Usage
-1. Open the app via the Streamlit link.
-
-2. Use "Register New User" to add your face to the system.
-
-3. Use "Log Attendance" to clock in or out.
-
-4. Go to "View Logs" to see the history and download the Excel file.
 
 ## Built with ❤️ using Python and Streamlit.
