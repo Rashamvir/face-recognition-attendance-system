@@ -32,7 +32,7 @@ If you want to run this project on your own machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/face-attendance.git](https://github.com/YOUR_USERNAME/face-attendance.git)
+   git clone [https://github.com/Rashamvir/face-attendance.git](https://github.com/Rashamvir/face-attendance.git)
    cd face-attendance
 
 2. **Install dependencies:**
